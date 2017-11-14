@@ -1,4 +1,4 @@
-function() {
+export default function() {
   return ([
     {title: 'The Hobbit'},
     {title: 'The Fellowship of the Ring'},
