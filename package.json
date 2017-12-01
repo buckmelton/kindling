@@ -1,9 +1,9 @@
 {
-  "name": "kindling",
+  "name": "react-demo-booklist",
   "version": "1.0.0",
   "description": "Dating app built using React and Redux",
   "main": "index.js",
-  "repository": "git@github.com:buckmelton/kindling.git",
+  "repository": "git@github.com:buckmelton/react-demo-booklist.git",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
